@@ -6,4 +6,5 @@ conda install -c pytorch pytorch torchvision torchaudio cpuonly -y
 conda install -c anaconda scikit-learn -y
 conda install -c anaconda seaborn -y
 conda install -c conda-forge tqdm -y
+conda install -c conda-forge chembl_webresource_client -y
 python -m pip install pyyaml
